@@ -6,5 +6,5 @@
     $len=strlen($send)-5;
     socket_write($socket,$send,$len + 5);
 	
-	echo "hello6";
+	echo "hello7";
 ?>
